@@ -1,0 +1,14 @@
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\bin\Debug\net6.0\Find_Hypotenuse.exe
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\bin\Debug\net6.0\Find_Hypotenuse.deps.json
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\bin\Debug\net6.0\Find_Hypotenuse.runtimeconfig.json
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\bin\Debug\net6.0\Find_Hypotenuse.dll
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\bin\Debug\net6.0\Find_Hypotenuse.pdb
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.AssemblyInfoInputs.cache
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.AssemblyInfo.cs
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.dll
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\refint\Find_Hypotenuse.dll
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.pdb
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\Find_Hypotenuse.genruntimeconfig.cache
+C:\Users\ritte\OneDrive\Рабочий стол\CS_labs-main\CS_lab1\6. Find_Hypotenuse\obj\Debug\net6.0\ref\Find_Hypotenuse.dll
