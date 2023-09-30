@@ -1,0 +1,14 @@
+C:\Users\ritte\source\repos\C#In\C#In\bin\Debug\net6.0\C#In.exe
+C:\Users\ritte\source\repos\C#In\C#In\bin\Debug\net6.0\C#In.deps.json
+C:\Users\ritte\source\repos\C#In\C#In\bin\Debug\net6.0\C#In.runtimeconfig.json
+C:\Users\ritte\source\repos\C#In\C#In\bin\Debug\net6.0\C#In.dll
+C:\Users\ritte\source\repos\C#In\C#In\bin\Debug\net6.0\C#In.pdb
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.AssemblyInfoInputs.cache
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.AssemblyInfo.cs
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.csproj.CoreCompileInputs.cache
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.dll
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\refint\C#In.dll
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.pdb
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\C#In.genruntimeconfig.cache
+C:\Users\ritte\source\repos\C#In\C#In\obj\Debug\net6.0\ref\C#In.dll
